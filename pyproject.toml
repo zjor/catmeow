@@ -1,8 +1,17 @@
 [tool.poetry]
 name = "catmeow"
-version = "0.2.1"
-description = ""
-authors = ["Sergey Royz <zjor.se@gmail.com>"]
+version = "0.2.2"
+description = "Simple CLI-application demostrating packaging and distibution"
+authors = [
+  "Sergey Royz <zjor.se@gmail.com>"
+]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/zjor/catmeow"
+repository = "https://github.com/zjor/catmeow"
+documentation = "https://zjor.medium.com/packaging-a-runnable-python-module-de43ac12148"
+
+keywords = ["packaging", "distribution", "cli-tool"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
