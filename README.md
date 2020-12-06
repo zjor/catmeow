@@ -24,3 +24,6 @@ password = <PASS>
 
 ### uninstall
 `pip uninstall catmeow`
+
+## References
+[Instruction @medium](https://zjor.medium.com/packaging-a-runnable-python-module-de43ac12148)
